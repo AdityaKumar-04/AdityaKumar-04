@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend Developer | Crafting interactive and responsive web experiences | Specialist in HTML, CSS, React, JavaScript, Tailwind, TypeScript, Python, Django | Passionate about UI/UX Design</h3>
 
 - 🔭 I’m currently working on **Chat application**
 
@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Full-stack web development projects using Next.js, React, and Django. Decentralized applications and blockchain-based solutions. Building user-friendly and interactive UI/UX designs.**
 
-- 💬 Ask me about **react,Vue,next**
+- 💬 Ask me about **React,Vue,Next**
 
 - 📫 How to reach me **kumaraditya5297@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- 📄 Know about my experiences [https://www.canva.com/design/DAGaSjbtQRc/FLGhr3jMj_PN4SmhoxTXrg/view?utm_content=DAGaSjbtQRc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h13ce158bd2](https://www.canva.com/design/DAGaSjbtQRc/FLGhr3jMj_PN4SmhoxTXrg/view?utm_content=DAGaSjbtQRc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h13ce158bd2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
