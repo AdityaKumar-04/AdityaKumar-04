@@ -1,30 +1,136 @@
-<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">Frontend Developer | Crafting interactive and responsive web experiences | Specialist in HTML, CSS, React, JavaScript, Tailwind, TypeScript, Python, Django | Passionate about UI/UX Design</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Chat application**
+<!-- Dynamic typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aditya+Kumar+%F0%9F%91%8B;Full-Stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript;Building+things+that+matter." alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Backend Node.js Express.js and MongoDB**
+<!-- Subtle wave separator -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=6&section=header" width="100%"/>
 
-- 👯 I’m looking to collaborate on **Full-stack web development projects using Next.js, React, and Django. Decentralized applications and blockchain-based solutions. Building user-friendly and interactive UI/UX designs.**
+</div>
 
-- 💬 Ask me about **React,Vue,Next**
+---
 
-- 📫 How to reach me **kumaraditya5297@gmail.com**
+## 🧠 About me
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGaSjbtQRc/FLGhr3jMj_PN4SmhoxTXrg/view?utm_content=DAGaSjbtQRc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h13ce158bd2](https://www.canva.com/design/DAGaSjbtQRc/FLGhr3jMj_PN4SmhoxTXrg/view?utm_content=DAGaSjbtQRc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h13ce158bd2)
+```ts
+const aditya = {
+  location   : "Delhi, India 🇮🇳",
+  role       : "Full-Stack Developer",
+  focus      : ["Next.js", "React", "TypeScript", "Django"],
+  learning   : ["Node.js", "Express.js", "MongoDB"],
+  building   : "A real-time Chat Application",
+  available  : true, // open to opportunities
+  contact    : "kumaraditya5297@gmail.com",
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kumaraditya2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumaraditya2004" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-kumar-88bb97260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-kumar-88bb97260/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/adityaa.kumar04/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adityaa.kumar04/?hl=en" height="30" width="40" /></a>
-</p>
+I build **fast, clean, user-first web apps**. My sweet spot is the intersection of great UI and solid architecture — from pixel-perfect frontends to backend APIs that just work.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakumar-04&show_icons=true&locale=en&layout=compact" alt="adityakumar-04" /></p>
+## 🚀 Tech stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityakumar-04&show_icons=true&locale=en" alt="adityakumar-04" /></p>
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakumar-04&" alt="adityakumar-04" /></p>
+### Backend & Database
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Featured projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💬 Chat Application <kbd>In Progress</kbd></h3>
+      <p>Real-time messaging app with rooms, authentication, and live updates. Built with Next.js, Node.js, and WebSockets.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🌦️ Weather App</h3>
+      <p>Live weather dashboard with location-based search, 5-day forecast, and clean responsive UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/REST API-6366F1?style=flat-square"/>
+      </p>
+      <a href="https://github.com/AdityaKumar-04/weather">→ View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛒 Add to Cart</h3>
+      <p>E-commerce cart system with product state management, quantity controls, and dynamic total calculation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+      <a href="https://github.com/AdityaKumar-04/AddToCard">→ View project</a>
+    </td>
+    <td width="50%">
+      <h3>🖼️ Image Gallery</h3>
+      <p>Responsive image gallery with filter, search, and smooth layout transitions. Clean UX focus.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <a href="https://github.com/AdityaKumar-04/image_gallery">→ View project</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityakumar-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar-04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakumar-04&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Let's connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-88bb97260/)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/KumarAditya2004)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adityaa.kumar04/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumaraditya5297@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=googledrive&logoColor=white)](https://www.canva.com/design/DAGaSjbtQRc/FLGhr3jMj_PN4SmhoxTXrg/view)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityakumar-04&color=6366f1&style=flat-square&label=Profile+views" />
+  <br/><br/>
+  <sub>Open to full-time roles, freelance projects, and open-source collaborations.</sub>
+</div>
